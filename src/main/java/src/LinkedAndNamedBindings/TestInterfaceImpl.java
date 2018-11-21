@@ -1,4 +1,4 @@
-package src;
+package src.LinkedAndNamedBindings;
 
 public class TestInterfaceImpl implements TestInterface {
     public void print(){

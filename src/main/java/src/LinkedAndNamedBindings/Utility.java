@@ -1,4 +1,4 @@
-package src;
+package src.LinkedAndNamedBindings;
 
 import com.google.inject.Inject;
 import com.google.inject.name.Named;
