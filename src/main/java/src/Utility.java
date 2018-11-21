@@ -6,7 +6,7 @@ public class Utility {
     private TestInterface testInterface1;
 
     @Inject
-    public Utility(TestInterface testInterface2) {
+    public Utility(@CustomAnnotation2 TestInterface testInterface2) {
         this.testInterface1 = testInterface2;
     }
 
