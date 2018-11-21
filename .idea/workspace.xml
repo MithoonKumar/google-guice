@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5365684f-5121-4f8a-ad69-e32c9234e8af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/SubClasstTestInterfaceImpl2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/BinderModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/BinderModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/SubClasstTestInterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/SubClasstTestInterfaceImpl1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/BinderModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/BinderModule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/Utility.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,13 +25,13 @@
         <counts>
           <entry key="dummy" value="1" />
           <entry key="gitignore" value="12" />
-          <entry key="java" value="338" />
+          <entry key="java" value="373" />
           <entry key="xml" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="338" />
+          <entry key="JAVA" value="373" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="XML" value="32" />
         </counts>
@@ -103,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -115,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="345">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -130,11 +121,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -177,11 +168,11 @@
         <option value="$PROJECT_DIR$/src/main/java/src/SubClasstTestInterfaceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/CutomAnnotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/BinderModule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/src/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/SubClasstTestInterfaceImpl1.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/SubClasstTestInterfaceImpl2.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/Utility.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/src/Test.java" />
       </list>
     </option>
   </component>
@@ -256,7 +247,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542788004018" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542788525870" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -410,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -443,16 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/src/BinderModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -471,6 +452,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
