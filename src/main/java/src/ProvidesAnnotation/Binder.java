@@ -3,7 +3,7 @@ package src.ProvidesAnnotation;
 import com.google.inject.AbstractModule;
 import com.google.inject.Provides;
 
-public class Binder extends AbstractModule {
+public class  Binder extends AbstractModule {
     @Override
     protected void configure(){}
 
