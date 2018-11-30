@@ -8,11 +8,12 @@ public class  Binder extends AbstractModule {
     protected void configure(){}
 
     @Provides
-    public TestInterface provideTestInterfaceImpl() {
+    public TestInterface getsss() {
         String dbUrl = "ye url hai";
         int num = 100;
         TestInterface testInterface =  new TestInterfaceImpl(dbUrl, num);
         return testInterface;
     }
+
 }
 
